@@ -1,2 +1,18 @@
-# VVGem
-Account Generator 
+
+Generator konta
+{
+  "name": "magsj",
+  "version": "6.9.9",
+  "description": "my bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "maxme",
+  "license": "MIT",
+  "dependencies": {
+   "discord.js": "latest"
+
+  }
+}
